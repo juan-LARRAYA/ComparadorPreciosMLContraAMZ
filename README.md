@@ -40,5 +40,5 @@ El proyecto está dividido en varios archivos para mantener la organización y s
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/comparador-precios-guitarras.git
-   cd comparador-precios-guitarras
+   git clone https://github.com/tu_usuario/ComparadorPreciosMLContraAMZ.git
+   cd ComparadorPreciosMLContraAMZ
