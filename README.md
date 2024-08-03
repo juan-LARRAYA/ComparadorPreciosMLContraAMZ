@@ -42,3 +42,5 @@ El proyecto está dividido en varios archivos para mantener la organización y s
    ```bash
    git clone https://github.com/tu_usuario/ComparadorPreciosMLContraAMZ.git
    cd ComparadorPreciosMLContraAMZ
+
+![Guitarras](images/guitarras.png)
